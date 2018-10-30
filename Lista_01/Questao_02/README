@@ -1,0 +1,5 @@
+Ola, tudo bem? 
+
+Para executar a questao atual digite no seu terminal o seguinte comando.
+
+g++ -Wall -pedantic -std=c++11 Pessoa.cpp main_pessoa.cpp -o pessoa
